@@ -1,2 +1,0 @@
-# CVSD
-NTU 2018 CVSD
